@@ -1,6 +1,6 @@
 <?php
-$user_name = "root";
-$password = "steelbull";
+$user_name = "***";
+$password = "***";
 $database = "coralShop";
 $server = "0.0.0.0";
 // Create connection
